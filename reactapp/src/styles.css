@@ -1,0 +1,68 @@
+.search {
+  margin: 25px;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  width: 200px;
+}
+
+.select1 {
+  width: 200px;
+}
+
+.book-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 23px;
+}
+
+.login-div {
+  display: flex;
+  justify-content: center;
+}
+
+.login-form {
+  margin-top: 155px;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  padding: 25px;
+}
+
+.custom-modal {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.custom-image {
+  /* width: 390px; */
+  margin:25px;
+}
+
+.profile-image {
+  width: 50px;
+  border-radius: 25px;
+}
+
+.profile-image2 {
+  width: 290px;
+  border-radius: 50%;
+}
+
+.profile-text {
+  font-size: 30px;
+}
+
+.navMain {
+  cursor: pointer;
+}
